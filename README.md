@@ -1,7 +1,5 @@
-# **TaskNinja API**
-
-
-TaskNinja API is a **simple web service** built entirely on the python framework called **fastapi**, it is used to save and manage your pending tasks.
+# **TaskNinja CLI**
+This is a CLI created exclusively to superficially demonstrate how the [Task Ninja API](https://github.com/Javierdiaz1386/TaskNinja) works.
 
 ## **Use**
 
